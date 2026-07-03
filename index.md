@@ -1,3 +1,22 @@
+<style>
+  html {
+    background: #eef7ff;
+  }
+
+  body {
+    background: #eef7ff;
+  }
+
+  .markdown-body,
+  main,
+  .container-lg,
+  .container-xl {
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 16px 44px rgba(120, 116, 190, 0.12);
+  }
+</style>
+
 # Privacy Policy / プライバシーポリシー
 
 Last updated: July 3, 2026  
