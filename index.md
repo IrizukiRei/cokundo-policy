@@ -58,7 +58,7 @@ Cokundo does not knowingly collect personal information from children.
 
 Some illustrations, icons, backgrounds, or other visual assets used within Cokundo's apps may be created or assisted using AI (artificial intelligence) image-generation tools.
 
-These AI-generated images are produced independently by Cokundo for use as app content. They are not generated from, and are not based on, any personal information or user-submitted data, and using an app does not involve sending users' personal information to an AI image-generation service.
+These AI-generated images are produced independently by Cokundo for use as app content, and are not generated from or based on any personal information or user-submitted data.
 
 ### 7. Changes to This Policy
 
@@ -106,7 +106,7 @@ Cokundo（こくん堂）は、子どもの個人情報を故意に収集しま�
 
 こくん堂のアプリ内で使用されるイラスト、アイコン、背景などの一部の画像素材は、AI（人工知能）による画像生成ツールを使用して作成または補助されている場合があります。
 
-これらのAI生成画像は、アプリのコンテンツとしてこくん堂が独自に作成したものであり、ユーザーの個人情報やユーザーが入力したデータをもとに生成されたものではありません。アプリを利用すること自体によって、ユーザーの個人情報がAI画像生成サービスに送信されることはありません。
+これらのAI生成画像は、アプリのコンテンツとしてこくん堂が独自に作成したものであり、ユーザーの個人情報やユーザーが入力したデータをもとに生成されたものではありません。
 
 ### 7. このポリシーの変更について
 
