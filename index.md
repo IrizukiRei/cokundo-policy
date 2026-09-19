@@ -54,13 +54,13 @@ If an app displays ads, the advertising provider may process data under its own 
 
 Cokundo does not knowingly collect personal information from children.
 
-### 6. Use of AI (Artificial Intelligence)
+### 6. Use of AI-Generated Images
 
-Some of Cokundo's apps, in-app content, or supporting materials (such as illustrations, translations, descriptions, or promotional text) may be created or assisted using AI (artificial intelligence) tools during development.
+Some illustrations, icons, backgrounds, or other visual assets used within Cokundo's apps may be created or assisted using AI (artificial intelligence) image-generation tools.
 
-Some apps may also include features that process user input using AI technology (for example, generative text or image features). Unless clearly stated otherwise within a specific app, this AI processing does not use users' personal information as defined in Section 1, and no personal information is transmitted to AI service providers for this purpose.
+These AI-generated images are produced independently by Cokundo for use as app content. They are not generated from, and are not based on, any personal information or user-submitted data, and using an app does not involve sending users' personal information to an AI image-generation service.
 
-Where an app relies on a third-party AI service to provide a feature, that service may process data according to its own privacy policy, in the same manner as described in Section 3 (Third-Party Services).
+If a specific app includes a feature that generates images based on a user's own input using AI, this will be clearly stated within that app. In that case, if the feature relies on a third-party AI service, that service may process data according to its own privacy policy, in the same manner as described in Section 3 (Third-Party Services).
 
 ### 7. Changes to This Policy
 
@@ -104,13 +104,13 @@ Cokundo（こくん堂）は、端末内に保存されたアプリデータを�
 
 Cokundo（こくん堂）は、子どもの個人情報を故意に収集しません。
 
-### 6. AI（人工知能）の利用について
+### 6. AI生成画像の利用について
 
-こくん堂のアプリ、アプリ内コンテンツ、または関連資料（イラスト、翻訳、説明文、宣伝文など）の一部は、開発の過程でAI（人工知能）ツールを使用して作成または補助されている場合があります。
+こくん堂のアプリ内で使用されるイラスト、アイコン、背景などの一部の画像素材は、AI（人工知能）による画像生成ツールを使用して作成または補助されている場合があります。
 
-一部のアプリでは、AI技術を用いてユーザーの入力を処理する機能（生成AIによるテキストや画像生成機能など）が含まれる場合があります。個別のアプリ内で明確に説明されていない限り、これらのAI処理において第1条で定義されるユーザーの個人情報は使用されず、この目的で個人情報がAIサービス提供者に送信されることはありません。
+これらのAI生成画像は、アプリのコンテンツとしてこくん堂が独自に作成したものであり、ユーザーの個人情報やユーザーが入力したデータをもとに生成されたものではありません。アプリを利用すること自体によって、ユーザーの個人情報がAI画像生成サービスに送信されることはありません。
 
-アプリが機能提供のために第三者のAIサービスを利用する場合、そのサービスは自社のプライバシーポリシーに基づいてデータを処理することがあります。これは第3条（第三者サービスについて）に記載の内容と同様です。
+個別のアプリに、ユーザー自身の入力をもとにAIで画像を生成する機能が含まれる場合は、そのアプリ内で明確に説明します。その場合、当該機能が第三者のAIサービスを利用しているときは、そのサービスが自社のプライバシーポリシーに基づいてデータを処理することがあります。これは第3条（第三者サービスについて）に記載の内容と同様です。
 
 ### 7. このポリシーの変更について
 
