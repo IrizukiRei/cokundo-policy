@@ -19,8 +19,8 @@
 
 # Privacy Policy / プライバシーポリシー
 
-Last updated: July 3, 2026  
-最終更新日: 2026年7月3日
+Last updated: September 19, 2026  
+最終更新日: 2026年9月19日
 
 ## English
 
@@ -54,11 +54,15 @@ If an app displays ads, the advertising provider may process data under its own 
 
 Cokundo does not knowingly collect personal information from children.
 
-### 6. Changes to This Policy
+### 6. Use of AI-Generated Images
+
+Some illustrations, icons, backgrounds, or other visual assets used within Cokundo's apps may be created or assisted using AI (artificial intelligence) image-generation tools.
+
+### 7. Changes to This Policy
 
 Cokundo may update this Privacy Policy when necessary. If the policy is updated, the latest version will be posted on this page.
 
-### 7. Contact
+### 8. Contact
 
 For privacy-related questions, please contact Cokundo through the contact method listed on the relevant app store page or official service page.
 
@@ -96,10 +100,14 @@ Cokundo（こくん堂）は、端末内に保存されたアプリデータを�
 
 Cokundo（こくん堂）は、子どもの個人情報を故意に収集しません。
 
-### 6. このポリシーの変更について
+### 6. AI生成画像の利用について
+
+こくん堂のアプリ内で使用されるイラスト、アイコン、背景などの一部の画像素材は、AI（人工知能）による画像生成ツールを使用して作成または補助されている場合があります。
+
+### 7. このポリシーの変更について
 
 Cokundo（こくん堂）は、必要に応じてこのプライバシーポリシーを更新することがあります。更新した場合は、このページに最新版を掲載します。
 
-### 7. お問い合わせ
+### 8. お問い合わせ
 
 プライバシーに関するお問い合わせは、各アプリストアページまたは公式サービスページに記載された連絡方法から Cokundo（こくん堂）までご連絡ください。
